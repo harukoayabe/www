@@ -10,7 +10,8 @@ h1 {
 	font-size: 24px;
 }
 
-div{
+div {
 	height: 100%;
+	width: 400px;
 	margin: auto;
 }
